@@ -93,6 +93,7 @@ body {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: 1.17rem
 }
 
 #about-me p {
@@ -107,6 +108,7 @@ body {
 .title {
 	text-align: center;
 	padding-block: 2em;
+	font-size: 1.75rem;
 }
 
 .gallery .nav {
@@ -293,7 +295,7 @@ input[type="submit"] {
 		margin-bottom: 1em;
 	}
 
-	#about-me h6,
+	#about-me h3,
 	#about-me p {
 		width: 100%;
 	}
